@@ -1,0 +1,15 @@
+# Base gitignore
+.env
+.env.local
+*.pem
+*.key
+credentials.json
+secrets.*
+*.log
+node_modules/
+dist/
+build/
+target/
+.venv/
+__pycache__/
+.DS_Store
